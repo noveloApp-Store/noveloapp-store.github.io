@@ -1,0 +1,5 @@
+title: Novelo
+url: "https://noveloapp-store.github.io"
+baseurl: "/novelo"
+exclude:
+  - README.md
